@@ -1,6 +1,21 @@
 # (DomesticMedia)
 # > 愛奇藝台灣站
 DOMAIN,cache.video.iqiyi.com,DomesticMedia
+DOMAIN-KEYWORD,qiyi,DomesticMedia
+DOMAIN-SUFFIX,qy.net,DomesticMedia
+IP-CIDR,101.227.0.0/16,DomesticMedia
+IP-CIDR,101.224.0.0/13,DomesticMedia
+IP-CIDR,119.176.0.0/12,DomesticMedia
 # > bilibili
-DOMAIN,api.bilibili.com,DomesticMedia
-DOMAIN,upos-hz-mirrorakam.akamaized.net,DomesticMedia
+DOMAIN-KEYWORD,bilibili,DomesticMedia
+DOMAIN-SUFFIX,acg.tv,DomesticMedia
+DOMAIN-SUFFIX,acgvideo.com,DomesticMedia
+DOMAIN-SUFFIX,b23.tv,DomesticMedia
+DOMAIN-SUFFIX,biliapi.com,DomesticMedia
+DOMAIN-SUFFIX,biliapi.net,DomesticMedia
+DOMAIN-SUFFIX,bilibili.com,DomesticMedia
+DOMAIN-SUFFIX,biligame.com,DomesticMedia
+DOMAIN-SUFFIX,biligame.net,DomesticMedia
+DOMAIN-SUFFIX,bilivideo.com,DomesticMedia
+DOMAIN-SUFFIX,hdslb.com,DomesticMedia
+DOMAIN-SUFFIX,im9.com,DomesticMedia
